@@ -1,6 +1,6 @@
 # Leveraging Explicit Reasoning for Inference Integration in Commonsense-Augmented Dialogue Models
 
-[Paper](https://arxiv.org/abs/2406.09138): **Leveraging Explicit Reasoning for Inference Integration in Commonsense-Augmented Dialogue Models**, COLING 2025
+[Paper](https://aclanthology.org/2025.coling-main.152/): **Leveraging Explicit Reasoning for Inference Integration in Commonsense-Augmented Dialogue Models**, COLING 2025
 
 Commonsense-augmented dialogue models have been proposed that aim to infer commonsense knowledge from dialogue contexts in order to improve response quality. However, existing approaches to commonsense-augmented dialogue rely on implicit reasoning to integrate commonsense inferences during response generation. 
 
